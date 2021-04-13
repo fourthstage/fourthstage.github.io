@@ -45,9 +45,7 @@
     "imageResize": true,
     "uniqCompNum": 4,
     "versionPublish": "5.3.0",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/sync/github/finloeac.github.io"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
