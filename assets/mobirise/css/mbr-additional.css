@@ -1535,6 +1535,11 @@ a {
 .cid-sDv7yX1NFQ .mbr-section-title {
   color: #232226;
 }
+.cid-sFF0yZlajk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
 .cid-sDvdo1ktBR.popup-builder {
   background-color: #ffffff;
 }
@@ -1814,9 +1819,4 @@ a {
   flex: 0 0 auto;
   width: auto;
   max-width: 100%;
-}
-.cid-sFF0yZlajk {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #232323;
 }
